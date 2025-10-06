@@ -15,17 +15,6 @@ A proposta é demonstrar, na prática, o uso de **Python** para representar e in
 
 ---
 
-## 🧠 Conteúdo do Repositório
-
-| Arquivo | Descrição |
-|----------|------------|
-| `estatistica_graficos.py` | Códigos em Python para geração dos gráficos (histograma, boxplot e pizza) |
-| `dados_pecas.txt` | Conjunto de dados de exemplo (variação em mm) |
-| `aula3_estatistica_unisinos.pdf` | Material de referência teórica da aula |
-| `relatorio_resultados.pdf` | Saída gerada com gráficos e interpretações (opcional) |
-
----
-
 ## 🧮 Técnicas Estatísticas Utilizadas
 
 - **Histograma de Frequência:**  
